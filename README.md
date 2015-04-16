@@ -1,2 +1,3 @@
 # essai
-J'ai ajout� cette 2�me ligne ult�rieurement.
+J'ai ajouté cette 2éme ligne ultérieurement.
+J'ai ajouté czttz 3éme ligne en ligne à partir de Github.
